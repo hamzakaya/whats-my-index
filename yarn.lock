@@ -260,10 +260,10 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@vitejs/plugin-react@^1.0.0":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-1.0.4.tgz#b4e934915205f2b05998019549c853bb1bb1f6c1"
-  integrity sha512-38/w1q2FON4e/es8WnAW0ZOa/RIOoOrpeWNUkgY6+u+M1eQZjyWWI0piLRM6fbDnm8Lm8Qtged8A7OZ/YnkNtw==
+"@vitejs/plugin-react@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-1.0.6.tgz#edbbe70151ce8b154ed1eb6a6f1962146ce1112b"
+  integrity sha512-wzbvi6w3w8yLDjurGwsZ0+fGW4zTSXnUzGz6wGeMrsnn14iYSyilqr3J1K2KbZ83Ramk+VBChh3FmpB09QpoUw==
   dependencies:
     "@babel/core" "^7.15.5"
     "@babel/plugin-transform-react-jsx" "^7.14.9"
